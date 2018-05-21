@@ -1,0 +1,50 @@
+//for each song
+{'artist-credit': [{'artist': {'id': 'b949e951-e5b8-485f-a0ff-a438a56b8578', 'name': '1976', 'sort-name': '1976'}}],
+ 'artist-credit-phrase': '1976',
+ 'ext:score': '100',
+ 'id': '18fc8744-54f9-497c-a8b5-5d4d8880dd39',
+ 'length': '279000',
+ 'release-list': [
+                    { 
+                      'country': 'TW',
+                      'date': '2004-07',
+                      'id': '19b9aaaf-41cf-4950-a623-a53d80c1bc93',
+                      'medium-list': [
+                                      { 'format': 'CD', 
+                                        'position': '1', 
+                                        'track-count': 10,
+                                        'track-list': [
+                                                        { 
+                                                          'id': 'adc3bcbe-1b4d-332a-98f1-fd45b9094497',
+                                                          'length': '279000',
+                                                          'number': '1',
+                                                          'title': '單純複雜',
+                                                          'track_or_recording_length': '279000'
+                                                        }
+                                                      ]
+                                      }
+                                      ],
+                      'medium-track-count': 10,
+                      'release-event-list': [
+                                              {
+                                                'area': 
+                                                        {
+                                                          'id': '41637cec-9a4f-389c-86d2-fc6abf3357b5',
+                                                          'iso-3166-1-code-list': ['TW'],
+                                                          'name': 'Taiwan',
+                                                          'sort-name': 'Taiwan'
+                                                        },
+                                                'date': '2004-07'
+                                              }
+                                            ],
+                      'release-group': {
+                                        'id': 'ff37aa1e-7fb4-3c6c-bd36-8f4f6578afe1',
+                                        'primary-type': 'Album',
+                                        'secondary-type-list': ['Live'],
+                                        'type': 'Live'
+                                        },
+                      'status': 'Official',
+                      'title': 'Late Summer of 1976 不插電現場實況'
+                      }
+                  ],
+  'title': '單純複雜'}
